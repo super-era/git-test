@@ -1,3 +1,3 @@
 # git-test
-Files created while working through The Odin Project (https://www.theodinproject.com)
-Hello Odin!
+Testing Git and GitHub via The Odin Project (https://www.theodinproject.com)
+
